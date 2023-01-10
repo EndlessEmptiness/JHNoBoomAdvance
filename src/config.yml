@@ -1,0 +1,51 @@
+dsna:
+  enable-messages:
+    - "Welcome to the DSNA Plugin!"
+    - "The plugin made by janhous"
+    - "Any error, report to my qq account."
+    - "This plugin developed for dreamside.cn"
+    - "Version: 1.7 Entity Addon and Block Fix"
+  blocks:
+    bed:
+      world: true
+      nether: false
+      the_end: false
+      resource: true
+      1171: true
+    respawn_auchor:
+      world: false
+      nether: true
+      the_end: false
+      resource: false
+      1171: false
+  entities:
+    tnt:
+      world: false
+      nether: false
+      the_end: false
+      resource: false
+      1171: false
+    tnt_minecart:
+      world: false
+      nether: false
+      the_end: false
+      resource: false
+      1171: false
+    wither_skull:
+      world: false
+      nether: false
+      the_end: false
+      resource: false
+      1171: false
+    ender_crystal:
+      world: false
+      nether: false
+      the_end: false
+      resource: false
+      1171: false
+    creeper:
+      world: false
+      nether: false
+      the_end: false
+      resource: false
+      1171: false

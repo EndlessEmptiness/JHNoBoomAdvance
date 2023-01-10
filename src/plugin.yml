@@ -1,0 +1,7 @@
+name: JHNoBoomAdvance
+main: cn.dreamside.jh_noboom_advance.PluginMain
+version: 1.7
+api-version: 1.19
+author: janhous
+description: An no explosion plugin developed for Dreamside. cn
+

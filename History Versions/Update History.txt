@@ -1,0 +1,32 @@
+# alpha	: local test
+# beta	: server test
+# release	: server running
+
+
+History Versions
+2023-1-6-1312-DSNA.jar
+	pre-build version; debug version; alpha
+2023-1-6-2146-DSNA.jar
+	block pre-build version; alpha
+2023-1-6-2206-DSNA.jar
+	bed fix pre-build version; alpha
+2023-1-6-2215-DSNA.jar
+	bed fix 2 pre-build version; alpha
+2023-1-7-1225-DSNA.jar
+	bed fix 3 pre-build version; alpha
+2023-1-7-1236-DSNA.jar
+	bed fix 4 pre-build version; alpha
+2023-1-7-1244-DSNA.jar
+	bed fix 5 pre-build version; alpha
+2023-1-7-1252-DSNA.jar
+	bed fix 6 pre-build version; makes bed and respawn-auchor destory-able; alpha
+2023-1-7-1307-DSNA.jar
+	bed fix 7 pre-build version; warning message(bed used when it not works); alpha
+2023-1-7-1400-DSNA.jar
+	entity addon pre-build; fixed structure;;
+2023-1-7-1400-DSNA.jar
+	send for test; _beta
+
+Bug Fixed
+2023-1-6-2146 build: fixed respawn auchor explosion
+2023-1-7-1307 build: fixed bed explosion
